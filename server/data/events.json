@@ -61,5 +61,32 @@
     "type": "exam",
     "startTime": "14:00",
     "endTime": "16:00"
+  },
+  {
+    "id": "8",
+    "date": "2025-10-11",
+    "name": "Founders' Day",
+    "description": "Annual college day celebrations.",
+    "type": "holiday",
+    "startTime": "00:00",
+    "endTime": "23:59"
+  },
+  {
+    "id": "9",
+    "date": "2025-10-20",
+    "name": "Project Viva Starts",
+    "description": "Capstone project vivas commence.",
+    "type": "exam",
+    "startTime": "10:00",
+    "endTime": "17:00"
+  },
+  {
+    "id": "10",
+    "date": "2025-10-27",
+    "name": "Autumn Break",
+    "description": "One-day semester break.",
+    "type": "semester_break",
+    "startTime": "00:00",
+    "endTime": "23:59"
   }
 ]
