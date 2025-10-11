@@ -17,7 +17,10 @@ function Layout() {
     <div className="min-h-screen bg-gradient-to-b from-background to-muted/40">
       <header className="sticky top-0 z-20 bg-background/80 backdrop-blur border-b">
         <div className="container mx-auto flex items-center justify-between py-4">
-          <Link to="/" className="flex items-center gap-2 text-primary font-extrabold text-xl">
+          <Link
+            to="/"
+            className="flex items-center gap-2 text-primary font-extrabold text-xl"
+          >
             <CalendarDays className="h-6 w-6" />
             Campus Calendar
           </Link>
