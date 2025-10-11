@@ -2,6 +2,7 @@ import "dotenv/config";
 import express from "express";
 import cors from "cors";
 import { handleDemo } from "./routes/demo";
+import { listEvents, streamEvents } from "./routes/events";
 
 export function createServer() {
   const app = express();
@@ -18,6 +19,10 @@ export function createServer() {
   });
 
   app.get("/api/demo", handleDemo);
+
+  // Academic events
+  app.get("/api/events", listEvents);
+  app.get("/api/events/stream", streamEvents);
 
   return app;
 }
