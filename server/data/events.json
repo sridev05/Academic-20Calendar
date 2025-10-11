@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "date": "2025-09-05",
+    "name": "Teachers' Day Holiday",
+    "description": "College closed for Teachers' Day.",
+    "type": "holiday",
+    "startTime": "00:00",
+    "endTime": "23:59"
+  },
+  {
+    "id": "2",
+    "date": "2025-09-12",
+    "name": "Midterm Exams Begin",
+    "description": "Midterm examination period starts.",
+    "type": "exam",
+    "startTime": "09:00",
+    "endTime": "17:00"
+  },
+  {
+    "id": "3",
+    "date": "2025-09-19",
+    "name": "Midterm Exams End",
+    "description": "Last day of midterm exams.",
+    "type": "exam",
+    "startTime": "09:00",
+    "endTime": "17:00"
+  },
+  {
+    "id": "4",
+    "date": "2025-09-25",
+    "name": "Semester Break Starts",
+    "description": "Start of short semester break.",
+    "type": "semester_break",
+    "startTime": "00:00",
+    "endTime": "23:59"
+  },
+  {
+    "id": "5",
+    "date": "2025-09-29",
+    "name": "Semester Break Ends",
+    "description": "Classes resume after break.",
+    "type": "semester_break",
+    "startTime": "00:00",
+    "endTime": "23:59"
+  },
+  {
+    "id": "6",
+    "date": "2025-09-02",
+    "name": "Library Orientation",
+    "description": "Orientation for new students.",
+    "type": "holiday",
+    "startTime": "10:00",
+    "endTime": "11:30"
+  },
+  {
+    "id": "7",
+    "date": "2025-09-10",
+    "name": "Data Structures Exam",
+    "description": "CS201 mid-term exam.",
+    "type": "exam",
+    "startTime": "14:00",
+    "endTime": "16:00"
+  }
+]
