@@ -9,15 +9,6 @@
     "endTime": "23:59"
   },
   {
-    "id": "2",
-    "date": "2025-09-12",
-    "name": "Midterm Exams Begin",
-    "description": "Midterm examination period starts.",
-    "type": "exam",
-    "startTime": "09:00",
-    "endTime": "17:00"
-  },
-  {
     "id": "3",
     "date": "2025-09-19",
     "name": "Midterm Exams End",
