@@ -15,3 +15,18 @@ Built with a modern frontend stack and serverless backend support for scalabilit
 - 🎨 Responsive UI with Tailwind CSS
 - 🧩 Shared types and utilities across frontend and backend
 - ☁️ Deployment-ready with Netlify
+
+  ---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- TypeScript
+- Vite
+- Tailwind CSS
+- PostCSS
+
+### Backend
+- Node.js
+- Netlify Functions (Serverless)
+
