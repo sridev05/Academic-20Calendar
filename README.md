@@ -30,3 +30,26 @@ Built with a modern frontend stack and serverless backend support for scalabilit
 - Node.js
 - Netlify Functions (Serverless)
 
+  ---
+
+
+## ⚙️ Installation & Setup
+
+### Prerequisites
+- Node.js (v18 or higher)
+- pnpm installed globally
+
+### Steps
+
+# Clone the repository
+git clone https://github.com/sridev05/Academic-Calendar.git
+
+# Move into the project directory
+cd Academic-Calendar
+
+# Install dependencies
+pnpm install
+
+# Start the development server
+pnpm dev
+
