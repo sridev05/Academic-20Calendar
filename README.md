@@ -39,17 +39,17 @@ Built with a modern frontend stack and serverless backend support for scalabilit
 - Node.js (v18 or higher)
 - pnpm installed globally
 
-### Steps
+## Steps
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/sridev05/Academic-Calendar.git
 
-# Move into the project directory
+### Move into the project directory
 cd Academic-Calendar
 
-# Install dependencies
+### Install dependencies
 pnpm install
 
-# Start the development server
+### Start the development server
 pnpm dev
 
